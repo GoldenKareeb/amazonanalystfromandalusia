@@ -1,1 +1,3 @@
-# amazonanalystfromandalusia
+# Contributors
+- Kareeb
+- Mushfik
