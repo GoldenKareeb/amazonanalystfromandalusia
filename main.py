@@ -1,6 +1,8 @@
 import pandas as pd
 
-df = pd.read_csv("amazon-orders.csv")
+df = pd.read_csv('amazon-orders.csv')
+df.head()
 
-df.shape
+data_size = df.shape
 
+print(data_size)
